@@ -1,16 +1,14 @@
-### Hi there 👋
+## 👋 Hello! My name is Matt and I build apps for people
 
-<!--
-**mattwells19/mattwells19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Every project I have finished was because I had someone I was specifically building it for. Making things that other people appreciate is what drives me to be a better developer.
 
-Here are some ideas to get you started:
+### Check out my projects!
+ - **[Cooped-Up](https://github.com/mattwells19/Cooped-Up)**: A web-based version of the game Coup. I have a friend group that loves board games including Coup. During lockdown we played games online, but there wasn't a good version of Coup that we could fine. So I built one, and this is it.
+ - **[UNCC-SIX-MANS](https://github.com/ClamSageCaleb/UNCC-SIX-MANS)**: A Discord Bot I helped build for managing pickup games in Rocket League for the UNCC Rocket League community. It even has its own leaderboard!
+ - **[Wells Front Desk](https://github.com/mattwells19/Wells-Front-Desk)**: My first full-stack project on my own. A lot of bad code, but I learned a TON while working on this. Not something I recommend using, but something I'm still proud of.
+ - There are even more projects I've worked on that I don't have listed here that you can check out as well if you're interested.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+If you want to get in touch you can catch me on [LinkedIn](https://www.linkedin.com/in/mwells21/).
+
+🌈🐧
